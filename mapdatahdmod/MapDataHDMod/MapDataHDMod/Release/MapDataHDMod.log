@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+  TimerMessageBox.cpp
+  城情報型.cpp
+  情報ポインタ定義.cpp
+  駆動関数.cpp
+駆動関数.def(2): warning LNK4017: LIBRARY ステートメントはターゲット プラットフォームでサポートされていません。無視しました。
+     ライブラリ C:\usr\koei\tenshouki95\dllwrap\MapDataHDMod\MapDataHDMod\Release\MapDataHDMod.lib とオブジェクト C:\usr\koei\tenshouki95\dllwrap\MapDataHDMod\MapDataHDMod\Release\MapDataHDMod.exp を作成中
+  コード生成しています。
+  コード生成が終了しました。
+  MapDataHDMod.vcxproj -> C:\usr\koei\tenshouki95\dllwrap\MapDataHDMod\MapDataHDMod\Release\MapDataHDMod.dll
